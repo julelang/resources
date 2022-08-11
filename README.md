@@ -1,2 +1,2 @@
 # Resources
-Official resources of Jule programming language. 
+Official resources of the [Jule](https://github.com/jule-lang/jule) programming language. 
